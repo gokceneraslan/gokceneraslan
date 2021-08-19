@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋
 
 <!--
 **gokceneraslan/gokceneraslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gokcen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokceneraslan&show_icons=true&theme=default)
+![Gokcen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokceneraslan&show_icons=true&theme=default&custom_title=G%C3%B6k%C3%A7en%27s%20GitHub%20Stats&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokceneraslan&layout=compact&theme=default)](.)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokceneraslan&layout=compact&theme=default)](https://github.com/gokceneraslan)
 
 <!-- Actual text -->
 
